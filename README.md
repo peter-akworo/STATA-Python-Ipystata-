@@ -1,8 +1,8 @@
 # STATA-Python-Ipystata-
 Enabling the use of Stata together with Python via Jupyter (IPython) notebook through the Ipystata package.
-# STATA Tutorial(enabled by Ipystata)
+## STATA Tutorial(enabled by Ipystata)
 STATA tutorial using notebook STATA cell magic.
-# STATA Magic
+### STATA Magic
 STATA using cell magic
 
 ```
